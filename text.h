@@ -8,7 +8,7 @@
 #ifndef text_h
 #define text_h
 
-#include <SDL2_ttf/SDL_ttf.h>
+#include <SDL2/SDL_ttf.h>
 
 #define CENTERED -1
 

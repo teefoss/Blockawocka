@@ -10,7 +10,7 @@
 #ifndef sound_h
 #define sound_h
 
-#include <SDL2_mixer/SDL_mixer.h>
+#include <SDL2/SDL_mixer.h>
 
 typedef enum
 {
